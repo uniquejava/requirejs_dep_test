@@ -1,0 +1,22 @@
+{
+  "name": "requirejs_dep_test",
+  "authors": [
+    "cyper <345343747@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.22"
+  }
+}
