@@ -4,6 +4,9 @@ define([], function () {
     var app = {
         init: function () {
             console.log('app init.');
+        },
+        augment: function (obj, func) {
+            this[obj] = func;
         }
     }
     window.app = app;

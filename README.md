@@ -25,7 +25,6 @@ method c is called.
 
 
 ## version 2
-TODO 
 
 scenario
 ```
